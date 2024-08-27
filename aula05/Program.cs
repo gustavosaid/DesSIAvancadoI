@@ -13,5 +13,19 @@
         int textoConvertidoInt = Convert.ToInt32(textoValor);
         Console.WriteLine($"Double: {valorDouble}, Inteiro: {valorConvertidoInt}, String: {textoValor}. Inteiro: {textoConvertidoInt}");
 
+        //Conversão explicita usando o (casting)
+        double x = 9.75;
+        int a = (int)x;
+        Console.WriteLine($"Double: {x}, Inteiro: {a}");
+
+        //Conversão usando o Parse
+        string textDecimal = "12.75";
+        double decimalString = double.Parse(textDecimal);
+        Console.WriteLine($"Sring: {textDecimal}, Double: {decimalString}");
+
+        char caractere = 'A';
+        int codigoAscii = (int)caractere;
+        Console.WriteLine($"Char: {caractere}, Ascii: {codigoAscii}");
+
     }
 }
