@@ -1,0 +1,15 @@
+/workspaces/DesSIAvancadoI/aula08/bin/Debug/net8.0/aula08
+/workspaces/DesSIAvancadoI/aula08/bin/Debug/net8.0/aula08.deps.json
+/workspaces/DesSIAvancadoI/aula08/bin/Debug/net8.0/aula08.runtimeconfig.json
+/workspaces/DesSIAvancadoI/aula08/bin/Debug/net8.0/aula08.dll
+/workspaces/DesSIAvancadoI/aula08/bin/Debug/net8.0/aula08.pdb
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.AssemblyInfoInputs.cache
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.AssemblyInfo.cs
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.csproj.CoreCompileInputs.cache
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.sourcelink.json
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.dll
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/refint/aula08.dll
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.pdb
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/aula08.genruntimeconfig.cache
+/workspaces/DesSIAvancadoI/aula08/obj/Debug/net8.0/ref/aula08.dll
