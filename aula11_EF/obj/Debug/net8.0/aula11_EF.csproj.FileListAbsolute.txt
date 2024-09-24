@@ -1,0 +1,6 @@
+/workspaces/DesSIAvancadoI/aula11_EF/obj/Debug/net8.0/aula11_EF.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesSIAvancadoI/aula11_EF/obj/Debug/net8.0/aula11_EF.AssemblyInfoInputs.cache
+/workspaces/DesSIAvancadoI/aula11_EF/obj/Debug/net8.0/aula11_EF.AssemblyInfo.cs
+/workspaces/DesSIAvancadoI/aula11_EF/obj/Debug/net8.0/aula11_EF.csproj.CoreCompileInputs.cache
+/workspaces/DesSIAvancadoI/aula11_EF/obj/Debug/net8.0/aula11_EF.sourcelink.json
+/workspaces/DesSIAvancadoI/aula11_EF/obj/Debug/net8.0/aula11_EF.csproj.AssemblyReference.cache
