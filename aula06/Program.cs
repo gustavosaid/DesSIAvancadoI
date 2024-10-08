@@ -10,6 +10,9 @@ public class Program{
         Console.WriteLine("O quadrado do numero " + numero + " é: " +numero*numero);
     }
 
+
+
+
     public static void MediaNota(int nota){
         if(nota < 60){
             Console.WriteLine("Reprovado, sua nota é: "+ nota);
@@ -36,5 +39,6 @@ public class Program{
 
         meuDelegate(objPessoa.Nota);
     }
+    
     
 }
