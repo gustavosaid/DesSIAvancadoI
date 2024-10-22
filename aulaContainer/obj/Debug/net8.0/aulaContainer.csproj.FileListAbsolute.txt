@@ -1,0 +1,6 @@
+/workspaces/DesSIAvancadoI/aulaContainer/obj/Debug/net8.0/aulaContainer.csproj.AssemblyReference.cache
+/workspaces/DesSIAvancadoI/aulaContainer/obj/Debug/net8.0/aulaContainer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DesSIAvancadoI/aulaContainer/obj/Debug/net8.0/aulaContainer.AssemblyInfoInputs.cache
+/workspaces/DesSIAvancadoI/aulaContainer/obj/Debug/net8.0/aulaContainer.AssemblyInfo.cs
+/workspaces/DesSIAvancadoI/aulaContainer/obj/Debug/net8.0/aulaContainer.csproj.CoreCompileInputs.cache
+/workspaces/DesSIAvancadoI/aulaContainer/obj/Debug/net8.0/aulaContainer.sourcelink.json
