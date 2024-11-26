@@ -12,6 +12,7 @@ namespace aula12_TPT{
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder){
+            modelBuilder.Entity<Pessoa>().ToTable("Pessoa");
             modelBuilder.Entity<Aluno>().ToTable("Alunos");
             modelBuilder.Entity<Professor>().ToTable("Professores");
                        
