@@ -6,7 +6,6 @@ namespace aula13_MTM
     {
         public DbSet<Pessoa> Pessoas { get; set; } = null!;
         public DbSet<Habilidade> Habilidades { get; set; } = null!;
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlite("Data Source=relacionamento.db");
